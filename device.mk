@@ -84,10 +84,10 @@ PRODUCT_PACKAGES += \
     libvulkan
 
 # Doze
-PRODUCT_PACKAGES += \
-    devicesettings \
-    RealmeDoze \
-    RealmeProximityHelper
+#PRODUCT_PACKAGES += \
+#    devicesettings \
+#    RealmeDoze \
+#    RealmeProximityHelper
 
 # Fingerprint
 PRODUCT_PACKAGES += \

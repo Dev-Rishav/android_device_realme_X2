@@ -15,4 +15,7 @@
 #
 
 PRODUCT_MAKEFILES := \
-    $(LOCAL_DIR)/aosp_X2.mk
+    $(LOCAL_DIR)/derp_X2.mk
+
+COMMON_LUNCH_CHOICES := \
+	derp_X2-userdebug
